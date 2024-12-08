@@ -1,16 +1,16 @@
-## Hi there 👋
+## About me 👋
+Here I'm sharing little info about me! And practise using Github 😄
 
-<!--
-**naatanensusanna/naatanensusanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on my own game project, exploring Unity and C#!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning the basics of game development using Unity, including scripting, platform mechanics, and UI design.
+
+- 👯 I’m looking to collaborate on future game dev projects once I’ve polished my skills!
+
+- 💬 Ask me about.. anything!?
+  
+- 📫 How to reach me: GitHub profile link or LindedIn 📮
+  
+- ⚡ Fun fact: my true love is coffee, say my friends and I agree!
+
